@@ -157,16 +157,16 @@ main .resultado article {
 }
 
 main .resultado article h2 {
-    color: white;
+    color: var(--color-red);
     margin-bottom: 20px;
 }
 
 main .resultado article p {
-    color: var(--Light-Grey);
+    color: var(--color-bg_dark);
     font-size: 1.1rem;
 }
 
 main .resultado article p span{
-    color: white;
+    color: var(--color-red);
     font-size: 1.2rem;
 }
