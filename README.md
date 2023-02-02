@@ -6,21 +6,7 @@ HTML e CSS.
 
 Projeto baseado em um teste de empresa para vaga de trabalho.
 
-- Tela Simular:
-
-![github-small](/imgs_project/main.PNG)
-      - É requerido o nome do usuário, o valor mensal, a taxa de juros e o 
-        tempo que o usuário deseja contruibuir.
+![juros](https://user-images.githubusercontent.com/100033559/216462323-8bb9bb12-6cd5-45d1-8a31-c51a80db626b.gif)
 
 
-- Tela Error:
-
-![github-small](/imgs_project/erro.PNG)
-      - Se o usuário esquecer de preencher algum campo, esse campo é requirido novamente.
-        
-      
-
-- Tela Resultado:
-
-![github-small](/imgs_project/slv.PNG)
-
+ 
